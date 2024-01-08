@@ -2,7 +2,7 @@ Book Bank Management
 Look at my project details..
 
 Problem Statement: 
-  A Book bank lends books and magazines to member, who is egistered in the system. Aos it handles the purchase of new titles for the Book Bank.
+  A Book bank lends books and magazines to member, who is registered in the system. Aos it handles the purchase of new titles for the Book Bank.
   Popular titles are bought into multiple copies. A memeber can reserve a book or magazine that is not curently available in the book bank, so that
   when it returned or purchased by the book bank, that person is notified. The book bank can easily create, replace and delete information about the titles,
   members, loans and reservations from the system.
